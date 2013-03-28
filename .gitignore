@@ -1,6 +1,30 @@
+target/
+bin
+
+.settings
+.classpath
+.project
+
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+/.idea
+
+*.iml
+*.ipr
+*.iws
+
+*.rdb
+*.out
+*.swp
+*.log
+
+*.pmd
+
+*.versionsBackup
+*.orig
+
